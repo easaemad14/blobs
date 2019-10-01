@@ -1,0 +1,26 @@
+#pragma once
+/*******************************************************************************
+ * File:        FILENAME
+ * Author:      NAME
+ *              EMAIL
+ *
+ * Description: DESCRIPTION
+ ******************************************************************************/
+
+
+class CLASSNAME {
+private: // Variables
+
+public: // Special member functions
+	CLASSNAME();
+	CLASSNAME(const CLASSNAME&);
+	CLASSNAME(CLASSNAME&&);
+	CLASSNAME& operator=(const CLASSNAME&);
+	CLASSNAME& operator=(CLASSNAME&&) noexcept;
+	~CLASSNAME() noexcept;
+
+public: // Member functions
+
+protected: // Member functions
+
+};
