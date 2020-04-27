@@ -1,0 +1,5 @@
+# Always use vi bindings for everything, all of the time
+set editing-mode vi
+
+set colored-completion-prefix on
+set horizontal-scroll-mode off
